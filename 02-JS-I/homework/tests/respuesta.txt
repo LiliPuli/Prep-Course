@@ -1,0 +1,16 @@
+Variables: Una variable (var) es una forma de almacenar un valor que podemos usar despues, se puede nombrar
+    para cuando se necesite hacer referencia a ella.
+Strings: Se utiliza para escribir texto dentro del codigo, se debe definir entre comillas simple '' o dobles ""
+Funciones (argumentos, return) : Para agrupar codigo que despues se puede invocar haciendo
+    referencia a la funcion con su nombre ejemplo: fuction mifuncion () {codigo agrupado}, a esto podemos
+    agregar argumentos que funcionan como variables dentro de la funcion.
+    Cuando usamos return lo que devuelve un valor especificado previamente
+Declaraciones if: Nos permite tener logica en el codigo, ejecutar el codigo de acuerdo a ciertas preguntas
+    ejemplo si queremos saber si es mujer o no, empleamos la pregunta en el codigo, ejemplo
+        Function esmujer (genero){
+            if (genero=mujer){
+            return true;
+            }
+            return false;
+            }
+Valores booleanos (true, false): Es un tipo de dato logico que indica si es verdadero (true) o falso (false) 
